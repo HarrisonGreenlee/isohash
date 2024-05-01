@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -flto -shared  -o isohash.cpython-38-x86_64-linux-gnu.so CMakeFiles/isohash.dir/bindings.cpp.o CMakeFiles/isohash.dir/main.cpp.o  /usr/lib/libarmadillo.so 

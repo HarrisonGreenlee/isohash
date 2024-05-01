@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/green/Desktop/isohash/main.cpp
+iostream
+-
+vector
+-
+armadillo
+-
+algorithm
+-
+functional
+-
+string
+-
+
